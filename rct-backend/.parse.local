@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "rct-backend"
+    },
+    "rct-backend": {
+      "applicationId": "C4cWcwQYhP7Tq642E60zubJe5d7JVd6abfrBavMf"
+    }
+  }
+}
